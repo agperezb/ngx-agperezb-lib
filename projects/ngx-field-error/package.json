@@ -1,0 +1,17 @@
+{
+  "name": "@agperezb/ngx-field-error",
+  "author": "agperezb",
+  "license": "MIT",
+  "version": "1.0.0",
+  "type": "module",
+  "peerDependencies": {
+    "@angular/common": "^16.2.0",
+    "@angular/core": "^16.2.0"
+  },
+  "dependencies": {
+    "tslib": "^2.3.0"
+  },
+  "sideEffects": false,
+  "description": "Field validate error for Angular",
+  "keywords": ["ngx", "ngx-field-error", "angular", "field"]
+}
